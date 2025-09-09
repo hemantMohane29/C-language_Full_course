@@ -60,6 +60,6 @@ This repository is organized into different levels of learning:
 
 ## 🚀 Usage Guide
 
-If you find this repository helpful, give it a star on Github! ⭐:
+If you find this repository helpful, give it a STAR on Github! ⭐:
 ---
 
